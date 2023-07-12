@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thiago Teixeira ✋
+### Olá! Eu sou o Thiago Teixeira ✋ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-teixeira-11b246248//)
 
