@@ -2,9 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-teixeira-11b246248//)
 
-Olá! Meu nome é Thiago Teixeira sou um jovem entusiasta em busca de conhecimento pelo desenvolvimento backend. Estou me especializando em Go (Golang)
+ Olá! Meu nome é Thiago Teixeira sou um jovem entusiasta em busca de conhecimento pelo desenvolvimento backend. Estou me especializando em Go (Golang)👨‍💻
 
-Minha jornada no desenvolvimento de software tem sido uma trajetória de aprendizado, e estou comprometido em me aprimorar cada vez mais para me tornar um profissional na área de backend.
+💻 Minha jornada no desenvolvimento de software tem sido uma trajetória de aprendizado, e estou comprometido em me aprimorar cada vez mais para me tornar um profissional na área de backend.
 
 Gostei muito da linguagem go, pois ela é muito simples porem muito eficiente, é uma linguagem que é extremamente fácil de lidar e simples de aprender.
 
