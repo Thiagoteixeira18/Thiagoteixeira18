@@ -8,7 +8,7 @@
 
 Gostei muito da linguagem go, pois ela é muito simples porem muito eficiente, é uma linguagem que é extremamente fácil de lidar e simples de aprender.
 
-Estou aberto a novas oportunidades para expandir meu conhecimento em desenvolvimento backend e contribuir para projetos inovadores
+Estou aberto a novas oportunidades para expandir meu conhecimento em desenvolvimento backend e contribuir para projetos inovadores!!
 
 
 ![Thiagoteixeira18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoteixeira18&show_icons=true&theme=radical)
